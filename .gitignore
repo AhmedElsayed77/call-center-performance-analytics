@@ -1,0 +1,4 @@
+*.tmp
+~$*
+.pbi/
+.DS_Store
